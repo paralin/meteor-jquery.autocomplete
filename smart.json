@@ -1,0 +1,9 @@
+{
+  "name": "jquery.autocomplete",
+  "description": "Devbridge implementation of jQuery autocomplete",
+  "homepage": "https://github.com/devbridge/jQuery-Autocomplete",
+  "author": "Christian Stewart (http://github.com/kidovate/",
+  "version": "1.2.9",
+  "git": "https://github.com/kidovate/meteor-jquery.autocomplete.git",
+  "packages": {}
+}
